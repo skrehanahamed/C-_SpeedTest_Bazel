@@ -18,13 +18,13 @@ A beautiful, modern internet speed test tool built with C++ and Bazel. Features 
 
 ### Web GUI
 ```
-<img width="1913" height="971" alt="image" src="https://github.com/user-attachments/assets/dcdb644f-f5c4-4e34-be4b-c2ef650bd543" />
+![image](https://github.com/user-attachments/assets/dcdb644f-f5c4-4e34-be4b-c2ef650bd543)
 
 ```
 
 ### CLI Mode
 ```
-  <img width="982" height="501" alt="image" src="https://github.com/user-attachments/assets/f561cc98-3454-4875-8f49-bd26d207d669" />
+  ![image](https://github.com/user-attachments/assets/f561cc98-3454-4875-8f49-bd26d207d669)
 
 ```
 
