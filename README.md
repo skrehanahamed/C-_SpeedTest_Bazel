@@ -17,33 +17,12 @@ A beautiful, modern internet speed test tool built with C++ and Bazel. Features 
 ## 📸 Screenshots
 
 ### Web GUI
-```
-╔═══════════════════════════════════════════════════════╗
-║              ⚡ SPEED TEST ⚡                          ║
-╚═══════════════════════════════════════════════════════╝
+<img width="1082" height="772" alt="image" src="https://github.com/user-attachments/assets/3924c058-fda7-4458-9b62-e97f51300140" />
 
-        [ Circular Speedometer ]
-              95.4 Mbps
-             DOWNLOADING
-
-        ┌──────┐ ┌──────┐ ┌──────┐
-        │ 📥   │ │ 📤   │ │ 📶   │
-        │95 Mb │ │45 Mb │ │15 ms │
-        └──────┘ └──────┘ └──────┘
-```
 
 ### CLI Mode
-```
-   ┌─────────────────────────────────────────────────────┐
-   │                    RESULTS                          │
-   ├─────────────────────────────────────────────────────┤
-   │  PING         15.23 ms                              │
-   │  JITTER        3.45 ms                              │
-   ├─────────────────────────────────────────────────────┤
-   │  ↓ DOWNLOAD   95.67 Mbps                            │
-   │  ↑ UPLOAD     45.23 Mbps                            │
-   └─────────────────────────────────────────────────────┘
-```
+<img width="947" height="518" alt="image" src="https://github.com/user-attachments/assets/ad640f8d-e217-4da5-a174-e9d477ccdbf5" />
+
 
 ## 🚀 Quick Start
 
