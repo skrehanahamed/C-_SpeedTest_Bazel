@@ -1,0 +1,16 @@
+cc_binary(
+    name = "speed_test",
+    srcs = ["main.cc"],
+    deps = [":benchmark_lib"],
+)
+
+cc_binary(
+    name = "speed_test_gui",
+    srcs = ["server.cc"],
+)
+
+cc_library(
+    name = "benchmark_lib",
+    srcs = ["benchmark.cc"],
+    hdrs = ["benchmark.h"],
+)
